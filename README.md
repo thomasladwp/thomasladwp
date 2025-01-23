@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Thomas. You might recognize me as a Programmer Analyst at LADWP.
+
+| Rank | Languages |
+|-----:|-----------|
+| 1| Java |
+| 2| Javascript |
+| 3| SQL |
 
 <!--
 **thomasladwp/thomasladwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
